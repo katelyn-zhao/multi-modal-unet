@@ -1,0 +1,14 @@
+FOLD----------------------------------
+x-training:  147168
+x-testing:  36792
+y-training:  147168
+y-testing:  36792
+max dice coef:  0.9259589314460754
+max val dice coef:  0.9057714939117432
+FOLD----------------------------------
+x-training:  147168
+x-testing:  36792
+y-training:  147168
+y-testing:  36792
+max dice coef:  0.9266570806503296
+max val dice coef:  0.9083508253097534
